@@ -10,5 +10,3 @@ With this software, you can use Deepseek anytime, anywhere on your Windows deskt
   3.Open Deepseek on your desktop
 
   4.Log in to your account and you can use Deepseek happily
-
-  Please give me a star.      Please give me a star.     Please give me a star.    Please give me a star.     Please give me a star.     Please give me a star.      Please give me a star.      Please give me a star.
